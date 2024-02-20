@@ -1,4 +1,4 @@
-1 align="center">Hello! Im Álvaro Galo  <img src="src/Hi.gif" height="30"></h1>
+<h1 align="center">Hello! Im Álvaro Galo  <img src="src/Hi.gif" height="30"></h1>
 
 <h2>Lenguajes y Frameworks</h2>
 <a href="https://github.com/Arastor99">
