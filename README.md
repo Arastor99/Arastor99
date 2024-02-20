@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Im Álvaro Galo  <img src="src/Hi.gif" height="30"></h1>
+<h1 align="center">Hello! Im Álvaro Galo <img src="src/Hi.gif" height="30"></h1>
 
 <h2>Lenguajes y Frameworks</h2>
 <a href="https://github.com/Arastor99">
@@ -7,7 +7,7 @@
 
 <h2>Bases de Datos</h2>
 <a href="https://github.com/Arastor99">
-  <img src="https://skillicons.dev/icons?i=mysql,pgsql,sqlite&perline=4">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=4">
 </a>
 
 <h2>Otras Tecnologías</h2>
